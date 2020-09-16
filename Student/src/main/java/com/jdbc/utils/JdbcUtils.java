@@ -23,6 +23,7 @@ public class JdbcUtils {
 		//读取配置文件
 //		ResourceBundle bundle = ResourceBundle.getBundle("jdbc");
 		
+		/* 9月16 加的注释 */
 		
 		driverClass = "com.mysql.cj.jdbc.Driver";
 		url = "jdbc:mysql://localhost:3306/TEST?serverTimezone=UTC";
